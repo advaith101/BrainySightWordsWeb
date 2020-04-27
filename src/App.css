@@ -1,0 +1,105 @@
+:root{
+  --mainBlue:#2a2a72;
+  --lightBlue:#009ffd;
+  --mainWhite:#f3f3f3;
+  --mainDark:#232528;
+  --mainYellow:#ffa400;
+  --mainBright: #09d3ac;
+  --main-sidebar: #6cf0bb;
+}
+body{
+  background-color: var(--mainBright)
+}
+.Margin-Top {
+  margin-top: 70px;
+}
+.nav-img {
+  min-height: 10px;
+  max-width: 120px;
+}
+.Fix-Row {
+    width: 500px;
+    min-height: 500px;
+    max-height: auto;
+    float: left;
+    margin: 3px;
+    padding: 3px;
+}
+.Text-Info {
+
+  font-size: 50px;
+  word-wrap: break-word;
+}
+
+.Aligner-Left {
+  margin-left: 10px;
+  align-items: flex-start;
+}
+
+.Aligner-Top{
+  /* display: flex; */
+  margin-top: 10px;
+  /* align-items: center;
+  justify-content: center; */
+  font-size: medium;
+}
+.Aligner {
+  margin-top: 120px;
+}
+.Img-Size {
+  font: 300px;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+.App {
+  }
+  
+  .App-logo {
+    height: 40vmin;
+  }
+  
+  .App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: var(--mainBright);
+  }
+  
+  .App-link {
+    color: #09d3ac;
+  }
+  .bg-primary {
+    background-color: #00ffc4;
+  }
+
+  .title {
+    font-size: 4pc
+  }
+  .arrowIcon {
+      font-size: 4em;
+      display: inline-block;
+      justify-content: space-between;
+  }
+  .TextName {
+    font-size: 6pc;
+  }
+  .TextInfo {
+    margin-top: 150px;
+    font-size: 50px;
+  }
+
+
+.item {
+    width: 120px;
+    min-height: 120px;
+    max-height: auto;
+    float: left;
+    margin: 3px;
+    padding: 3px;
+}

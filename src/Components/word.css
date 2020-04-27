@@ -1,0 +1,43 @@
+.wordLetter{
+  display: flex;
+  align-content: center;
+  position: center;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 400%;
+}
+i {
+  font-size: 5em;
+  display: inline-block;
+}
+.items {
+  display: block;
+  text-align: center;
+}
+.items p {
+  font-size: 5em;
+  display: inline-block;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.word {
+  margin-left: 100px;
+}
+
+.word img {
+  width: 30%;
+  height: 30%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+p {
+    text-align: center;
+    font-size: 3.5em;
+}
+.redText {
+    color: red;
+}
+.audio {display:none;}

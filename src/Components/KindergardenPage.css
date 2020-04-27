@@ -1,0 +1,57 @@
+.App {
+  text-align: center;
+}
+body {
+  background-color: #09d3ac;
+}
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.kinder-garden-image img {
+  width: 60%;
+  height: 20%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+.a {
+  display: block;
+  align-content: center;
+  align-items: center;
+  position: center;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 300%;
+}
+
+.tile {
+  background-color: #f3f3f3;
+  border-radius: 2em;
+  margin-bottom: 2em;
+}
+
+.py-2 {
+  margin-left: 250px;
+  transform: scale(0.94);
+}
+
+.container {
+  margin-top: -2px;
+}

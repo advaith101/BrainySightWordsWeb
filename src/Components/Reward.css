@@ -1,0 +1,18 @@
+
+.back {
+    position: absolute;
+    left: 0px;
+    width: 20%;
+}
+
+.paragraph {
+    font-size: 50px;
+}
+
+.wrapper {
+    display: grid;
+    grid-gap: 10px;
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+}
