@@ -15,6 +15,7 @@ Added Quiz Modules
  
 ### Bug Fixes
 Displaying examples for each word consecutively.
+
 Correcting sound indication for getting the correct answer.
  
 ### Known Bugs
