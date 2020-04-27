@@ -3,10 +3,10 @@ Brainy Sight Words is a React-based web application that aims to teach children 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Release Note
+## Release Notes
 *April 20, 2020*
 
-### New Feature
+### New Features
 Added Reward System 
 
 Added Learning Modules
