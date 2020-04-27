@@ -1,5 +1,5 @@
 # Brainy Sight Words Web App
-Brainy Sight Words is a React-based web application that aims to teach children from pre-K to second grade how to sight words. This project was developed for Dr. Walter Evans, an English professor at Augusta University, over the Fall 2019 and Spring 2020 semester at Georgia Tech by Jason Au, Tu Nguyen, Luan Nguyen, Duc Le, and Advaith Sekharan. 
+Brainy Sight Words is a React-based web application that aims to teach children from pre-K to second grade how to sight words. This project was developed for Dr. Walter Evans, an English professor at Augusta University, over the Fall 2019 and Spring 2020 semesters at Georgia Tech by Jason Au, Tu Nguyen, Luan Nguyen, Duc Le, and Advaith Sekharan. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -50,7 +50,7 @@ Alternatively you may use `yarn`:
 **Note: This works for any library, not only `react-router-dom`.**
 
 ### Download
-https://github.gatech.edu/tnguyen496/BrainySightWords.git
+https://github.com/advaith101/BrainySightWordsWeb
  
 ### Build
 ### `npm run build`
